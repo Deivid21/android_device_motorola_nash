@@ -10,5 +10,11 @@
   {
     "repository": "android_system_qcom",
     "target_path": "system/qcom"
+  },
+  {
+    "repository": "motorola_camera2_primary",
+    "target_path": "packages/apps/MotCamera2",
+    "branch" : "q-arm64",
+    "remote" : "moto-camera"
   }
 ]
