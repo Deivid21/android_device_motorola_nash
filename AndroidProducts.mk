@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_nash.mk
+    $(LOCAL_DIR)/rr_nash.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_nash-user \
-    lineage_nash-userdebug \
-    lineage_nash-eng
+    rr_nash-user \
+    rr_nash-userdebug \
+    rr_nash-eng
