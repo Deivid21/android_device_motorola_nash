@@ -14,7 +14,7 @@
   {
     "repository": "motorola_camera2_primary",
     "target_path": "packages/apps/MotCamera2",
-    "branch" : "q-arm64",
+    "branch" : "ten-arm64",
     "remote" : "moto-camera"
   }
 ]
