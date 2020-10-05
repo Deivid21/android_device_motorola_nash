@@ -13,3 +13,4 @@ dontaudit qti_init_shell self:capability dac_override;
 
 get_prop(qti_init_shell, moto_boot_prop)
 get_prop(qti_init_shell, vendor_radio_prop)
+set_prop(qti_init_shell, qemu_hw_mainkeys_prop)
