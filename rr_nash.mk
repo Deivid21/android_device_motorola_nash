@@ -32,3 +32,6 @@ PRODUCT_RELEASE_NAME := nash
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
         PRODUCT_NAME=nash
+
+# RROS Maintainer
+RR_BUILDTYPE=Official
