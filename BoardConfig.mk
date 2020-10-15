@@ -147,6 +147,9 @@ CUSTOM_APNS_FILE := $(DEVICE_PATH)/configs/sprint_apns.xml
 TARGET_PROVIDES_QTI_TELEPHONY_JAR := true
 TARGET_USES_OLD_MNC_FORMAT := true
 
+# RROS Wallpapers
+BUILD_RR_WALLPAPERS := true
+
 # Vendor Security Patch Level
 VENDOR_SECURITY_PATCH := 2019-11-01
 
