@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/rr_nash.mk
+    $(LOCAL_DIR)/aosip_nash.mk
 
 COMMON_LUNCH_CHOICES := \
-    rr_nash-user \
-    rr_nash-userdebug \
-    rr_nash-eng
+    aosip_nash-user \
+    aosip_nash-userdebug \
+    aosip_nash-eng
