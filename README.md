@@ -19,7 +19,7 @@ Front Camera | 5 MP
 
 **This tree has Moto Camera 2 & Moto Clock Widget included, for build do this:**
 
-`git clone https://gitlab.com/NemesisDevelopers/moto-camera/motorola_camera2_denali.git -b ten-arm64 packages/apps/MotCamera2`
+`git clone https://gitlab.com/NemesisDevelopers/moto-camera/motorola_camera2_primary.git -b ten-arm64 packages/apps/MotCamera2`
 
 `git clone https://gitlab.com/NemesisDevelopers/moto-camera/motorola_camera2_overlay.git -b ten packages/apps/MotCamera2-overlay`
 
