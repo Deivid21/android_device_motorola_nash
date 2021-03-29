@@ -165,6 +165,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     TimeWeather
 
+# RROS Wallpapers
+BUILD_RR_WALLPAPERS := true
+
 # Fingerprint
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.1
