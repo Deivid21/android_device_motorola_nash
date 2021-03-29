@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/rr_nash.mk
+    $(LOCAL_DIR)/arrow_nash.mk
 
 COMMON_LUNCH_CHOICES := \
-    rr_nash-user \
-    rr_nash-userdebug \
-    rr_nash-eng
+    arrow_nash-user \
+    arrow_nash-userdebug \
+    arrow_nash-eng
