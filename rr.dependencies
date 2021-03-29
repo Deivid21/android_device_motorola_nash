@@ -16,7 +16,7 @@
     "target_path": "system/qcom"
   },
   {
-    "repository": "motorola_camera2_primary",
+    "repository": "motorola_camera2_denali",
     "target_path": "packages/apps/MotCamera2",
     "branch" : "ten-arm64",
     "remote" : "moto-camera"
