@@ -21,13 +21,12 @@ Front Camera | 5 MP
 
 `git clone https://gitlab.com/NemesisDevelopers/moto-camera/motorola_camera2_denali.git -b eleven-arm64 packages/apps/MotCamera2`
 
-`git clone https://gitlab.com/NemesisDevelopers/moto-camera/motorola_camera2_overlay.git -b eleven packages/apps/MotCamera2-overlay`
+`git clone https://gitlab.com/NemesisDevelopers/moto-camera/motorola_camera2_overlay.git -b ten packages/apps/MotCamera2-overlay`
 
 `git clone https://gitlab.com/NemesisDevelopers/motorola/motorola_timeweather.git -b eleven packages/apps/TimeWeather`
 
 `git clone https://gitlab.com/NemesisDevelopers/motorola/motorola_livewallpaper3.git -b eleven packages/apps/MotoLiveWallpaper3`
 
 `git clone https://gitlab.com/NemesisDevelopers/motorola/motorola_motosignatureapp.git -b eleven packages/apps/MotoSignatureApp`
-
 
 ![Motorola Z2 Force](https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-z2-force-.jpg "Motorola Z2 Force")
