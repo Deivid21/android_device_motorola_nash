@@ -4,33 +4,49 @@
     "target_path": "kernel/motorola/msm8998"
   },
   {
-    "repository": "android_external_bson",
-    "target_path": "external/bson"
-  },
-  {
-    "repository": "android_hardware_motorola",
-    "target_path": "hardware/motorola"
-  },
-  {
     "repository": "android_system_qcom",
     "target_path": "system/qcom"
   },
   {
-    "repository": "motorola_camera2_primary",
+    "repository": "LineageOS/android_hardware_motorola",
+    "target_path": "hardware/motorola",
+    "remote": "github",
+    "branch": "lineage-18.1"
+  },
+  {
+    "repository": "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "remote": "github",
+    "branch": "lineage-18.1"
+  },
+  {
+    "repository": "NemesisDevelopers/moto-camera/motorola_camera2_primary",
     "target_path": "packages/apps/MotCamera2",
-    "branch" : "eleven-arm64",
-    "remote" : "moto-camera"
+    "remote": "gitlab",
+    "branch": "eleven-arm64"
   },
   {
-    "repository": "motorola_timeweather",
+    "repository": "NemesisDevelopers/moto-camera/motorola_camera2_overlay",
+    "target_path": "packages/apps/MotCamera2-overlay",
+    "remote": "gitlab",
+    "branch": "ten"
+  },
+  {
+    "repository": "NemesisDevelopers/motorola/motorola_timeweather",
     "target_path": "packages/apps/TimeWeather",
-    "branch": "eleven",
-    "remote": "motorola"
+    "remote": "gitlab",
+    "branch": "eleven"
   },
   {
-    "repository": "motorola_livewallpaper3",
+    "repository": "NemesisDevelopers/motorola/motorola_livewallpaper3",
     "target_path": "packages/apps/MotoLiveWallpaper3",
-    "branch": "eleven",
-    "remote": "motorola"
+    "remote": "gitlab",
+    "branch": "eleven"
+  },
+  {
+    "repository": "NemesisDevelopers/motorola/motorola_motosignatureapp",
+    "target_path": "packages/apps/MotoSignatureApp",
+    "remote": "gitlab",
+    "branch": "eleven"
   }
 ]
