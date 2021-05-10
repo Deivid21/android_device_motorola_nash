@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_nash.mk
+    $(LOCAL_DIR)/aosp_nash.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_nash-user \
-    arrow_nash-userdebug \
-    arrow_nash-eng
+    aosp_nash-user \
+    aosp_nash-userdebug \
+    aosp_nash-eng
