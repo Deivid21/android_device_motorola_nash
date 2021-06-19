@@ -32,5 +32,11 @@
     "target_path": "packages/apps/MotoLiveWallpaper3",
     "branch": "eleven",
     "remote": "motorola"
+  },
+  {
+    "repository": "packages_apps_MotoDolbyV3",
+    "target_path": "packages/apps/MotoDolbyV3",
+    "branch": "eleven",
+    "remote": "motorola"
   }
 ]
